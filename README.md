@@ -14,3 +14,6 @@ I have included a button that you may press at any time that lets you speed up t
 
 Here's a run while it's still learning:<br/>
 ![](firstdemo.gif)
+
+Here's what it looks like when it's finished learning:<br/>
+![](finaldemo.gif)
