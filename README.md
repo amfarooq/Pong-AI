@@ -13,4 +13,4 @@ The paddle is an AI agent that is trying to learn how to play the game successfu
 I have included a button that you may press at any time that lets you speed up the learning process by turning off the display of the game. The game is still being run in the background, while the agent continues to learn how to play better. The button may be pressed again at any point to toggle the display back on. When you do this, you will be shown the current game that is being played. 
 
 Here's a run while it's still learning:
-![](demo1.gif)
+![](firstdemo.gif)
